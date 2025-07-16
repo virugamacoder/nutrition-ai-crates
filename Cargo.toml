@@ -6,7 +6,7 @@ license = "MIT"
 description = "Rust wrapper to analyze food nutrition using Google Gemini"
 repository = "https://github.com/virugamacoder/nutrition-ai-crates"
 readme = "README.md"
-keywords = ["Generative AI","Google Gemini","gemini", "nutrition", "ai", "image", "google"]
+keywords = ["Generative AI","Google Gemini", "nutrition", "ai","AI Assistant"]
 categories = ["api-bindings"]
 authors = ["virugamacoder"]
 
