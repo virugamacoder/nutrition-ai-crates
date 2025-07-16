@@ -1,0 +1,9 @@
+/target
+Cargo.lock
+.idea
+*.log
+.env
+*.png
+*.jpg
+*.jpeg
+*.webp

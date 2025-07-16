@@ -1,0 +1,18 @@
+[package]
+name = "nutrition-ai"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+description = "Rust wrapper to analyze food nutrition using Google Gemini"
+repository = "https://github.com/virugamacoder/nutrition-ai-crates"
+readme = "README.md"
+keywords = ["Generative AI","Google Gemini","gemini", "nutrition", "ai", "image", "google"]
+categories = ["api-bindings", "command-line-utilities"]
+authors = ["virugamacoder"]
+
+[dependencies]
+anyhow = "1.0.98"
+base64 = "0.22.1"
+google-generative-ai-rs = { version = "0.3.4", features = ["beta"] }
+serde = "1.0.219"
+tokio = { version = "1.46.1", features = ["full"] }
