@@ -1,3 +1,7 @@
+[![Crates.io](https://img.shields.io/crates/v/nutrition-ai.svg)](https://crates.io/crates/nutrition-ai)
+[![Docs](https://docs.rs/nutrition-ai/badge.svg)](https://docs.rs/nutrition-ai)
+
+
 # 🧠 nutrition-ai (Rust)
 
 **Analyze food images using Google Gemini AI with full nutritional breakdown – written in pure Rust.**
@@ -89,3 +93,5 @@ Default fallback model if none is provided: `Gemini1_5Flash`
 ## 📄 License
 
 [MIT](./LICENSE) © 2025
+
+
