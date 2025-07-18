@@ -1,3 +1,6 @@
+[![Crates.io](https://img.shields.io/crates/v/nutrition-ai.svg)](https://crates.io/crates/nutrition-ai)
+[![Docs](https://docs.rs/nutrition-ai/badge.svg)](https://docs.rs/nutrition-ai)
+
 # 🧠 nutrition-ai (Rust)
 
 **Analyze food images using Google Gemini AI with full nutritional breakdown – written in pure Rust.**
